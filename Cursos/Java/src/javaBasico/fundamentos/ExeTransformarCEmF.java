@@ -1,4 +1,4 @@
-package javaBasico;
+package javaBasico.fundamentos;
 
 public class ExeTransformarCEmF {
 

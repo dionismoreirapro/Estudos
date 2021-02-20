@@ -1,4 +1,4 @@
-package javaBasico;
+package javaBasico.fundamentos;
 
 
 import java.util.Scanner;
