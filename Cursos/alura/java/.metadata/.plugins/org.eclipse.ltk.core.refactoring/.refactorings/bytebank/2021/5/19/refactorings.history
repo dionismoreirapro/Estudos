@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;bytebank.conta&apos; to &apos;Conta&apos;&#x0A;- Original project: &apos;bytebank&apos;&#x0A;- Original element: &apos;bytebank.conta&apos;&#x0A;- Renamed element: &apos;bytebank.Conta&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;conta&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;bytebank{conta.java[conta" matchStrategy="1" name="Conta" qualified="false" references="true" similarDeclarations="false" stamp="1620098637723" textual="false" version="1.0"/>
+</session>
